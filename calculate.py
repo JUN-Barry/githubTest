@@ -10,6 +10,9 @@ def calculate_sum(a, b, n):
     return total_sum
 
 # Example values
+# make a change for github
+## @@
+
 oneraw = 1
 initial_value = 17259000 * oneraw
 ten_year_value = initial_value * (1 + 0.0516)
